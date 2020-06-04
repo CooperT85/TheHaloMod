@@ -1,0 +1,3 @@
+displayName = The Halo Mod
+author = CooperT85
+version = 0.7

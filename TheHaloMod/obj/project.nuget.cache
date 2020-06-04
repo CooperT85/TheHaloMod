@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lspMSafcEL/nTkrRxBOASskmxuhkh9ePt/SIOY1GrYXft6znl4qgHDv1LUDsL5KpJJgvOycwEqdSq5dKg4E8Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coope\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\TheHaloMod\\TheHaloMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coope\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
